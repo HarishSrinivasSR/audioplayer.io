@@ -13,7 +13,7 @@ new Vue({
           name: "Life Of Pazham",
           artist: "Anidrudh Ravichandran - Harish",
           cover: "https://i.scdn.co/image/ab67616d0000b2730b046aa68f41ed53875a6b4e",
-          source: "https://tamilpaatu.com/downloader/fBPV3Onpp70hMfzPhplBIw/1661551264/p128_cdn/22445",
+          source: "https://github.com/HarishSrinivasSR/audioplayer/raw/main/Life-of-Pazham-Harish.mp3",
           url: "https://youtu.be/bB-HQgHE5Gc",
           favorited: false
         },
@@ -21,7 +21,7 @@ new Vue({
           name: "Thenmozhi",
           artist: "Anirudh Ravichandran - Harish",
           cover: "https://i.scdn.co/image/ab67616d0000b27382a4489bc3e7f3d1372b3350",
-          source: "https://tamilpaatu.com/downloader/fBPV3Onpp70hMfzPhplBIw/1661551264/p128_cdn/22455",
+          source: "https://github.com/HarishSrinivasSR/audioplayer/raw/main/Thenmozhi-Harish.mp3",
           url: "https://youtu.be/K95tfEm7wwY",
           favorited: true
         },
@@ -29,7 +29,7 @@ new Vue({
           name: "Megham Karukatha",
           artist: "Anidrudh Ravichandran - Harish",
           cover: "https://i.scdn.co/image/ab67616d0000b273a88e2419e55cfdf1bf2a2fe2",
-          source: "https://tamilpaatu.com/downloader/fBPV3Onpp70hMfzPhplBIw/1661551264/p128_cdn/22414",
+          source: "https://github.com/HarishSrinivasSR/audioplayer/raw/main/Megham-Karukatha-Harish.mp3",
           url: "https://youtu.be/zYc83YbeU-U",
           favorited: false
         },
@@ -37,7 +37,7 @@ new Vue({
           name: "Thai Kelavi",
           artist: "Anidrudh Ravichandran - Harish",
           cover: "https://i.scdn.co/image/ab67616d0000b273e3b15ec025f8e74aac8e9393",
-          source: "https://tamilpaatu.com/downloader/fBPV3Onpp70hMfzPhplBIw/1661551264/p128_cdn/22329",
+          source: "https://github.com/HarishSrinivasSR/audioplayer/raw/main/Thaai-Kelavi-Harish.mp3",
           url: "https://youtu.be/q6LjN1UVPkE",
           favorited: false
         },
@@ -45,7 +45,7 @@ new Vue({
           name: "Po Nee Po - The Pain of Love",
           artist: "Anirudh Ravichander - Harish",
           cover: "https://i.scdn.co/image/ab67616d0000b2730d66934f5370419636c78f18",
-          source: "https://tamilpaatu.com/downloader/U3VQ-_tHQGneEZXx-jDbZA/1661553113/p128_cdn/3243",
+          source: "https://github.com/HarishSrinivasSR/audioplayer/raw/main/Poo-Nee-Poo-Harish.mp3",
           url: "https://youtu.be/DnyA_qEbTpw",
           favorited: true
         },
@@ -53,7 +53,7 @@ new Vue({
           name: " Poo Indru Neeyaga",
           artist: "Anidardh Ravichandran - Harish",
           cover: "https://i.scdn.co/image/ab67616d00001e021fd89eb7aa5bd5dad8ee7e2e",
-          source: "https://tamilpaatu.com/downloader/7R4ZVWJY1lSP188Ql4haRQ/1661552799/p128_cdn/7915",
+          source: "https://github.com/HarishSrinivasSR/audioplayer/raw/main/Po-Indru-Neeyaga-%20Harish.mp3",
           url: "https://youtu.be/xSrgt6QG0nE",
           favorited: false
         },
@@ -61,7 +61,7 @@ new Vue({
           name: "Ey Inga Paaru",
           artist: "Anirudh Ravichander - Harish",
           cover: "https://i.scdn.co/image/ab67616d0000b2737f41c0c85e10ce786b7846d9",
-          source: "https://tamilpaatu.com/downloader/NLqKEKebGKu4yjtm4KEOHA/1661552950/p128_cdn/7914",
+          source: "https://github.com/HarishSrinivasSR/audioplayer/raw/main/Ey-Inga-Paaru-Harish.mp3",
           url: "https://youtu.be/svHICCAeZ9I",
           favorited: true
         },
@@ -69,7 +69,7 @@ new Vue({
           name: "Ponni Nadhi",
           artist: "A.R Rahman - Harish",
           cover: "https://i.scdn.co/image/ab67616d0000b273dfec68576484f46ec3c52497",
-          source: "https://tamilpaatu.com/downloader/X7R0ROLW-9-kgJSnU5T4IA/1661552582/p128_cdn/22462",
+          source: "https://github.com/HarishSrinivasSR/audioplayer/raw/main/Ponni-Nadhi-Harish.mp3",
           url: "https://youtu.be/Oh5sU8YzF1A",
           favorited: false
         },
@@ -77,7 +77,7 @@ new Vue({
           name: "Maatna Gaali",
           artist: "Santhosh Narayanan - Harish",
           cover: "https://i.scdn.co/image/ab67616d0000b2730f86eaea5b4a7913ef64e11e",
-          source: "https://tamilpaatu.com/downloader/FXhf1IGSDcfSZApAH-j4nA/1661552452/p128_cdn/22452",
+          source: "https://github.com/HarishSrinivasSR/audioplayer/raw/main/Maatna-Gaali-Harish.mp3",
           url: "https://youtu.be/SHSbnLOCgto",
           favorited: false
         }
